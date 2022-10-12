@@ -1,0 +1,36 @@
+/* BODY */
+
+body{
+    background-color: blueviolet;}
+
+/* NAVBAR */
+
+.navbar{
+    background-color: rgb(23, 23, 26);
+    color: aliceblue;
+    font-family: 'Roboto Mono', monospace;}
+
+/*Link*/
+ 
+.navbar a{
+    color: rgb(223, 18, 144);}
+.navbar a:hover{
+    color: rgb(229, 142, 13);}
+
+/* Menu */
+
+/* ICON */
+
+.navbar-toggler-icon i{
+    width:20px;
+    height: 20px;
+    color: rgb(244, 237, 237);
+}
+    
+.navbar-toggler :hover {
+    transition: 1s ease-in-out;
+    transform: rotate(90deg);
+   }
+       
+        
+  
